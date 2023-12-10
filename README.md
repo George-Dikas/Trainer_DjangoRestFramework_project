@@ -20,7 +20,7 @@ Trainer_DjangoRestFramework_project is consist of two applications:
   - Activate Virtual Environment: C:\Users\User\Desktop\Trainer_DRF_project>myenv\Scripts\activate										
 * Clone Project OR:                                                                                                                     									
   - (myenv) C:\Users\User\Desktop\Trainer_DRF_project>git clone https://github.com/George-Dikas/Trainer_DjangoRestFramework_project.git
-  - Change folder's name Trainer_DRF_project inside the Project Folder into trainer_drf_project			
+  - Change folder's name Trainer_DjangoRestFramework_project inside the Trainer_DRF_project	folder into trainer_drf_project			
   - (myenv) C:\Users\User\Desktop\Trainer_DRF_project>cd trainer_drf_project	
 * Download Project:
   - Code/Download Zip
