@@ -24,8 +24,8 @@ Trainer_DjangoRestFramework_project is consist of two applications:
   - (myenv) C:\Users\User\Desktop\Trainer_DRF_project>cd trainer_drf_project	
 * Download Project:
   - Code/Download Zip
-  - Extract folder and put it into Virtual Environment myenv
-  - Change folder's name Trainer_DjangoProject-master into trainer_drf_project
+  - Extract folder and put it into Trainer_DRF_project folder
+  - Change folder's name Trainer_DjangoRestFramework_project-master into trainer_drf_project
   - (myenv) C:\Users\User\Desktop\Trainer_DjangoProject>cd trainer_drf_project
 * Run Project: 
   - Install all requirments for the project: 
