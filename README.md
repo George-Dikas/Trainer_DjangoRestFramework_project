@@ -19,17 +19,18 @@ Trainer_DjangoRestFramework_project is consist of two applications:
   - Create a Virtual Environment with name myenv: C:\Users\User\Desktop\Trainer_DRF_project>python -m venv myenv					
   - Activate Virtual Environment: C:\Users\User\Desktop\Trainer_DRF_project>myenv\Scripts\activate										
 * Clone Project OR:                                                                                                                     									
-  - (myenv) C:\Users\User\Desktop\Trainer_DRF_project>git clone https://github.com/George-Dikas/Trainer_DjangoProject.git	
-  - Change folder's name Trainer_DRF_project inside the Project Folder into trainer_project			
-  - (myenv) C:\Users\User\Desktop\Trainer_DRF_project>cd trainer_project		
+  - (myenv) C:\Users\User\Desktop\Trainer_DRF_project>git clone https://github.com/George-Dikas/Trainer_DjangoRestFramework_project.git
+  - Change folder's name Trainer_DRF_project inside the Project Folder into trainer_drf_project			
+  - (myenv) C:\Users\User\Desktop\Trainer_DRF_project>cd trainer_drf_project	
 * Download Project:
   - Code/Download Zip
   - Extract folder and put it into Virtual Environment myenv
-  - Change folder's name Trainer_DjangoProject-master into trainer_project
-  - (myenv) C:\Users\User\Desktop\Trainer_DjangoProject>cd trainer_project
+  - Change folder's name Trainer_DjangoProject-master into trainer_drf_project
+  - (myenv) C:\Users\User\Desktop\Trainer_DjangoProject>cd trainer_drf_project
 * Run Project: 
   - Install all requirments for the project: 
-    (myenv) C:\Users\User\Desktop\Trainer_DjangoProject\trainer_project>pip install -r requirements.txt
+    (myenv) C:\Users\User\Desktop\Trainer_DRF_project\trainer_drf_project>pip install -r requirements.txt
   - Begin your local server: 
-    (myenv) C:\Users\User\Desktop\Trainer_DjangoProject\trainer_project>python manage.py runserver
-  - Type into your browser: http://127.0.0.1:8000/registration/
+    (myenv) C:\Users\User\Desktop\Trainer_DRF_project\trainer_drf_project>python manage.py runserver
+  - For rest_api urls look at rest_api.urls.py file
+  - Type into your browser for ajax_app side: 127.0.0.1:8000/ajax_app/trainer_list/
