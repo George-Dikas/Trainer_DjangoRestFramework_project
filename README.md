@@ -11,7 +11,7 @@ Trainer_DjangoRestFramework_project is consist of two applications:
 * Font-awesome 5.11.2
 ## Use Project Locally:
 * Project Folder and Virtual Environment:		
-  - Open Visual Code Studio
+  - Open Visual Studio Code
   - Launch Profile/Command Prompt																										
   - Go to this path: C:\Users\User\Desktop																					
   - Create a folder for the project: C:\Users\User\Desktop>mkdir Trainer_DRF_project							
