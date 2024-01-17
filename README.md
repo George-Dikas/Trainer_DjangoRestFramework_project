@@ -2,7 +2,7 @@
 ## Description
 Trainer_DjangoRestFramework_project is consist of two applications:
 1) rest_api was created with Django Rest Framework and provides Crud operations for trainers and subjects.
-2) ajax_app is a Django application that sends API request to rest_api application for trainers CRUD perposes and also receives Api responses.     
+2) ajax_app is a Django application that sends API request to rest_api application for trainers CRUD purposes and also receives Api responses.     
 ## Technologies
 * Django 4.2.7
 * Django Rest Framework 3.14.0
